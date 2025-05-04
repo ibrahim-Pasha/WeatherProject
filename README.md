@@ -64,3 +64,7 @@ This project is meant for educational and demonstration purposes. The weather da
 ---
 
 Thank you for exploring the Weather Project Repository. If you have any questions or need assistance, don't hesitate to reach out to the repository maintainers. Stay informed about the weather in Turkey with just a few clicks!
+
+
+
+![image](https://github.com/user-attachments/assets/4611241b-ae53-4458-82fd-55ec23e6897b)
